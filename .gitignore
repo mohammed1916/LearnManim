@@ -1,2 +1,4 @@
 __pycache__/*
 
+media/videos/*/480p15/partial_movie_files/*
+media/videos/*/480p15/partial_movie_files/*/partial_movie_file_list.txt
